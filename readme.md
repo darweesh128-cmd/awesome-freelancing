@@ -39,6 +39,8 @@
 
 
 ## Tools
+
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) — Free browser-only freelance invoice, quote, and purchase order tools; MIT, no signup.
 - [Canva](https://www.canva.com/) - Quick design tool for non-designers.
 - [Calendly](https://calendly.com/) - Scheduling meetings made easy.
 - [Grammarly](https://www.grammarly.com/) - Free and efficient tool to correct your grammar and spellings.
